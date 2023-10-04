@@ -1,0 +1,6 @@
+{
+  "GitHubOrganization": "YourOrganization",
+  "BackupParentDirectory": "C:\\Path\\To\\Backup",
+  "RetentionDays": 30,
+  "AccessToken": "YourAccessToken"
+}
